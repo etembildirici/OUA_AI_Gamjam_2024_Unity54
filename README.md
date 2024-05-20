@@ -55,9 +55,9 @@ https://assetstore.unity.com/packages/3d/characters/robots/robot-hero-pbr-hp-pol
 
 ## Ekran Görüntüleri
 
-https://github.com/etembildirici/OUA_AI_Gamjam_2024_Unity54/blob/main/Images/image1.png
+![Nav Mesh1](Images/image1.png)
 
-https://github.com/etembildirici/OUA_AI_Gamjam_2024_Unity54/blob/main/Images/image2.png
+![Nav Mesh2](Images/image2.png)
 
 
   
