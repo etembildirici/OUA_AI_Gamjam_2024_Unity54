@@ -42,11 +42,17 @@ Oyuncunun zamanı yavaşlatma gücü vardır. "E" tuşuna tıklandığında bu �
 Oyunda tamamen ücretsiz assetler kullanıldı.
 
 https://assetstore.unity.com/packages/p/3d-free-modular-kit-85732
+
 https://assetstore.unity.com/packages/p/3d-modern-menu-ui-116144
+
 https://assetstore.unity.com/packages/3d/environments/sci-fi/lowpoly-spaceship-183012
+
 https://assetstore.unity.com/packages/p/robot-soldier-142438
+
 https://assetstore.unity.com/packages/p/skybox-series-free-103633
+
 https://assetstore.unity.com/packages/3d/characters/robots/robot-hero-pbr-hp-polyart-106154
+
 ## Ekran Görüntüleri
 
 
