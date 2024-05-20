@@ -53,6 +53,10 @@ https://assetstore.unity.com/packages/p/skybox-series-free-103633
 
 https://assetstore.unity.com/packages/3d/characters/robots/robot-hero-pbr-hp-polyart-106154
 
+https://drive.google.com/file/d/1Vk9v_OT6sicNRsmFPB13fHIRyxBPaS-m/view?usp=drive_link
+
+https://drive.google.com/file/d/1YNxyewoFYLIYWUX3I9ol1HatmUP4hF1A/view?usp=drive_link
+
 ## Ekran Görüntüleri
 
 ![Nav Mesh1](Images/image1.png)
